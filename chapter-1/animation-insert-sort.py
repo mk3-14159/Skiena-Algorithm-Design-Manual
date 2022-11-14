@@ -15,6 +15,7 @@ insert_sort(item [], int n)
     }
 }
 """
+# Try to implement INSERTSORT diagram later in python
 
 def insertionSort(arr):
 	# Traverse through 1 to len(arr)
