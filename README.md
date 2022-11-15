@@ -1,5 +1,5 @@
-# Skiena-Algorithm-Design-Manual
+# Skiena Algorithm Design Manual Code Snippets
 ---
-Code snippets for learning 
+Collection of code from SADM 
 
-![Figure 1.1 - Animation of insert sort in action as time flows down](./chapter-1/animation-insert-sort.py)
+[Figure 1.1 - Animation of insert sort in action as time flows down](./chapter-1/animation-insert-sort.py)
